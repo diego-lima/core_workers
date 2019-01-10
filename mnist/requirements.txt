@@ -1,0 +1,9 @@
+keras
+notebook
+jupyter
+ipython
+tensorflow
+matplotlib
+pillow
+python3_gearman
+scikit-image
